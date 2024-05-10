@@ -1,4 +1,4 @@
-bucket = "sivakumar-remote-state"
-        key = "expense-demo"
+bucket = "srmktr-prod"
+        key = "expense-prod"
         region = "us-east-1"
-        dynamodb_table = "daws78s-locking"
+        dynamodb_table = "srmktr-prod"
